@@ -8,14 +8,14 @@
 A beautiful, interactive Valentine's Day website generator to ask your special someone to be your Valentine! Create your own personalized version in minutes. Perfect for Valentine's Day 2026! 💝
 Follow below the tutorial how to custom the website and get your custom URL and access your website on the internet from everywhere !
 
-🌟 **[Live Demo](https://end2endai.github.io/valentine-website-2025)** | 🚀 **[Quick Start](#-quick-start-guide)** | 🌐 **[Deploy Your Website](#4-make-it-live-get-your-online-website-url)**
+🌟 **[Live Demo](https://danielofodile.github.io/valentine-website-2026)** | 🚀 **[Quick Start](#-quick-start-guide)** | 🌐 **[Deploy Your Website](#4-make-it-live-get-your-online-website-url)**
 
 ## 🌟 Share The Love
 
 If you liked it, please :
 - ⭐ Star this repository if you like it
 - 🔄 Fork it to create your own version
-- 🔥 Like and follow on instagram for more websites : [Instagram](https://www.instagram.com/reel/DFh3ZaxtrYX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- 🔥 Like and follow on instagram for more websites : [Instagram](https://www.instagram.com/danielofodilec)
 
 ## ✨ Features
 - 💖 Floating hearts and bears
@@ -28,7 +28,7 @@ If you liked it, please :
 ## 🚀 Quick Start Guide
 
 ### 1. Get Your Own Copy
-1. Click the "Fork" button at the top right of this page or [click here](https://github.com/End2EndAI/valentine-website-2025/fork)
+1. Click the "Fork" button at the top right of this page or [click here](https://github.com/danielofodile/valentine-website-2026/fork)
 2. Wait a few seconds while GitHub creates your copy
 3. You now have your own version of the code!
 
@@ -45,7 +45,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Jubbie"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
